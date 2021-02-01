@@ -1,7 +1,7 @@
 # Node 42
 Projet Express.js
 
-## Intall
+## Install
 `git clone https://github.com/ronantr/nodejs-42/ && cd nodejs-42 && npm i`
 
 ## Run
