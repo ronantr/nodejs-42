@@ -9,4 +9,3 @@ Projet Express.js
 
 ## Contribute
 Pull requests and issues are welcome if you have suggestion or changes to propose!
-##commentaire Verification
